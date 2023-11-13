@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **helmi220602@gmail.com**
 
-# connection
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:helmi220602@gmail.com" alt="Gmail">
