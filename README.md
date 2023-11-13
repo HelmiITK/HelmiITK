@@ -38,7 +38,7 @@ alt="tailwind"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
 alt="git"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" 
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/640px-Visual_Studio_Code_1.35_icon.svg.png" 
 alt="vscode"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
 alt="postman"/></code>
