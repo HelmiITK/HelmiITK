@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **helmi220602@gmail.com**
 
-<h3 align="left">📡 Connect with me</h3>
+<h3 align="left">📡 | Connect with me</h3>
 <p align="left">
   <a href="mailto:helmi220602@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
@@ -25,7 +25,7 @@
 </p>
 
 
-<h3 align="left">🧠 Language and tools</h3>
+<h3 align="left">🧠 | Language and tools</h3>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -51,7 +51,7 @@ alt="figma"/></code>
 
 
 
-<h3 align="left">📝 Status</h3>
+<h3 align="left">📝 | Status</h3>
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmiitk&theme=merko&hide_langs_below=1" />
 </a>
