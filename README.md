@@ -35,13 +35,17 @@
 <code><img height="32" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
 alt="tailwind"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
 alt="git"/></code>
-<code><img height="32" src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://logowik.com/content/uploads/images/visual-studio-code7642.jpg)" 
+<code><img height="32" src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg" 
 alt="vscode"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
 alt="postman"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" 
+alt="vite"/></code>
+<code><img height="32" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" 
+alt="vercel"/></code>
 
 
 <h3 align="left">Status</h3>
