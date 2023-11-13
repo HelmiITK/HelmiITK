@@ -17,4 +17,4 @@
 <p><img align="left" style="background-color-black" src="https://github-readme-stats.vercel.app/api/top-langs?username=helmiitk&show_icons=true&locale=en&layout=compact" alt="helmiitk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmiitk&show_icons=true&locale=en" alt="helmiitk" /></p>
-
+[merko]: https://github-readme-stats.vercel.app/api?username=helmiitk&show_icons=true&locale=en&theme=merko
