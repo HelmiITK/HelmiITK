@@ -52,9 +52,9 @@ alt="figma"/></code>
 
 
 <h3 align="left">📝 | Status</h3>
-<a href="https://github.com/Gurupreet">
+<!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmiitk&theme=merko&hide_langs_below=1" />
-</a>
+</a> -->
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helmiitk&show_icons=true&theme=merko&line_height=27" alt="**SEU NOME** github stats"/>
