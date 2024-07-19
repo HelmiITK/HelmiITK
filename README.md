@@ -50,6 +50,14 @@ alt="vercel"/></code>
 alt="figma"/></code>
 <code><image height="32" src="https://e7.pngegg.com/pngimages/806/950/png-clipart-unity-video-games-game-engine-logo-3d-computer-graphics-web-portal-game-angle-thumbnail.png" 
 alt="unity"/></code>
+<code><image height="32" src="https://community.aseprite.org/uploads/default/original/2X/f/fc918daaaabaf72920a240177aa1b521ace8488d.png" 
+alt="asprite"/></code>
+<code><image height="32" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" 
+alt="redux"/></code>
+
+
+
+
 
 
 
