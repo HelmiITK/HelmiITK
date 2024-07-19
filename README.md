@@ -48,7 +48,7 @@ alt="vite"/></code>
 alt="vercel"/></code>
 <code><image height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" 
 alt="figma"/></code>
-<code><image height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png](https://e7.pngegg.com/pngimages/806/950/png-clipart-unity-video-games-game-engine-logo-3d-computer-graphics-web-portal-game-angle-thumbnail.png" 
+<code><image height="32" src="https://e7.pngegg.com/pngimages/806/950/png-clipart-unity-video-games-game-engine-logo-3d-computer-graphics-web-portal-game-angle-thumbnail.png" 
 alt="unity"/></code>
 
 
